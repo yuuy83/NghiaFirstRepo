@@ -1,2 +1,2 @@
 # My first Repository
-This is a test repository create in  VC
+This is a test repository clone into VS
